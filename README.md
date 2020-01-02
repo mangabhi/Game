@@ -1,2 +1,2 @@
-# pong_game
-Pong is a two-dimensional sports game that simulates table tennis. The player controls an in-game paddle by moving it vertically across the left or right side of the screen. They can compete against another player controlling a second paddle on the opposing side. Players use the paddles to hit a ball back and forth. The goal is for each player to reach eleven points before the opponent; points are earned when one fails to return the ball to the other
+#game
+Today, graphics are a key defining feature of most games. While 2D graphics used to be the norm for games released through the mid-1990s, most AAA games now boast full 3D graphics, even for games which are largely 2D in nature, such as Civilization III. However, purely 2D graphics have experienced a Renaissance with indie games.[13]
